@@ -122,7 +122,7 @@ AI-Autonomous-Navigation-System/
 - Git and GitHub portfolio workflow
 
 ## Author
-**Your Name** — Student project for learning autonomous navigation and robotics fundamentals.
+**Sanchita Giri** — 3rd Year IT Student, Jawaharlal Darda Institute Of Engineering And Technology,Yavatmal
 
 ## 🎥 Project Demo
 
