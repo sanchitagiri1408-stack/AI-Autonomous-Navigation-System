@@ -123,3 +123,18 @@ AI-Autonomous-Navigation-System/
 
 ## Author
 **Your Name** — Student project for learning autonomous navigation and robotics fundamentals.
+
+## 🎥 Project Demo
+
+[▶️ Watch Robot Simulation Demo](demo/robot-simulation-demo.mp4)
+
+## 🚀 Features Demonstrated
+- A* pathfinding algorithm
+- Obstacle avoidance
+- Autonomous robot navigation
+- Goal detection and route planning
+
+## 🛠️ Technologies Used
+- Python
+- Pygame
+- Git and GitHub
