@@ -122,7 +122,7 @@ AI-Autonomous-Navigation-System/
 - Git and GitHub portfolio workflow
 
 ## Author
-**Sanchita Giri** — 3rd Year IT Student, Jawaharlal Darda Institute Of Engineering And Technology,Yavatmal
+**Sanchita Giri** — 3rd Year CSE Student, Jawaharlal Darda Institute Of Engineering And Technology,Yavatmal
 
 ## 🎥 Project Demo
 
