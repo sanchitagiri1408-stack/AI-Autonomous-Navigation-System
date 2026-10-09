@@ -123,18 +123,3 @@ AI-Autonomous-Navigation-System/
 
 ## Author
 **Sanchita Giri** — 3rd Year CSE Student, Jawaharlal Darda Institute Of Engineering And Technology,Yavatmal
-
-## 🎥 Project Demo
-
-[▶️ Watch Robot Simulation Demo](demo/robot-simulation-demo.mp4)
-
-## 🚀 Features Demonstrated
-- A* pathfinding algorithm
-- Obstacle avoidance
-- Autonomous robot navigation
-- Goal detection and route planning
-
-## 🛠️ Technologies Used
-- Python
-- Pygame
-- Git and GitHub
